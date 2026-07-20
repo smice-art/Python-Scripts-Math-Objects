@@ -9,6 +9,6 @@ A collection of Python Scripts to generate Math Objects in Blender.
 
 Here is the list of Blender Scripts:
 
-*   [Boys](./boys/) – Kurze Beschreibung, was das erste Tool macht.
-*   [Knot](./knot/) – Kurze Beschreibung, was das zweite Tool macht.
-*   [Rose](./rose/) – Kurze Beschreibung, was das dritte Tool macht.
+*   [Boys](./Boys/) – click the Link to watch the certain Script Folder
+*   [Knot](./Rose/) – click the Link to watch the certain Script Folder
+*   [Rose](./Twisted-Knot/) – click the Link to watch the certain Script Folder.
