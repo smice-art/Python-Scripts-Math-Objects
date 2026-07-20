@@ -10,5 +10,5 @@ A collection of Python Scripts to generate Math Objects in Blender.
 Here is the list of Blender Scripts:
 
 *   [Boys](./Boys/) – click the Link to watch the certain Script Folder
-*   [Knot](./Rose/) – click the Link to watch the certain Script Folder
-*   [Rose](./Twisted-Knot/) – click the Link to watch the certain Script Folder.
+*   [Rose](./Rose/) – click the Link to watch the certain Script Folder
+*   [Knot](./Twisted-Knot/) – click the Link to watch the certain Script Folder.
