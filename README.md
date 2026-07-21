@@ -12,4 +12,4 @@ Here is the list of Blender Scripts:
 *   [Boys](./Boys/) – click the Link to watch the certain Script Folder
 *   [Rose](./Rose/) – click the Link to watch the certain Script Folder
 *   [Knot](./Twisted-Knot/) – click the Link to watch the certain Script Folder
-*   [Tree Generator](./Trees/) – click the Link to watch the certain Script Folder
+*   [Tree Generator](./Tree/) – click the Link to watch the certain Script Folder
