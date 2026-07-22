@@ -18,7 +18,7 @@ Here is the list of Blender Scripts:
 | Feature | Description | Preview |
 | :--- | :--- | :--- |
 | **[BOYS](./Boys/)** | Boy's Surface (Bryant-Kusner). | <img src="Images/1.png" width="150"> |
-| **[ROSE](./Rose/)** | Adjusts the percentage to ignore baked-in lighting, shadows, and highlights. | <img src="Images/2.png" width="150"> |
-| **[KNOT1](./Twisted-Knot/)** | Instantly switches the viewport to display calculated color groups directly on mesh centers. | <img src="images/3.png" width="150"> |
-| **[TREE GENERATOR](./Tree/)** | Automatically builds the node trees and assigns discrete Principled BSDF materials. | <img src="images/4.png" width="150"> |
-| **[SPIRO GENERATOR](./Spiro/)** | Automatically builds the node trees and assigns discrete Principled BSDF materials. | <img src="images/5.png" width="150"> |
+| **[ROSE](./Rose/)** | Just a simple python Flower. | <img src="Images/2.png" width="150"> |
+| **[KNOT1](./Twisted-Knot/)** | A braided knot is an interwoven, closed, non-self-intersecting curve in 3D. | <img src="Images/3.png" width="150"> |
+| **[TREE GENERATOR](./Tree/)** | A fractal tree is an infinitely repeating geometric pattern that mimics the branching structure. | <img src="Images/4.png" width="150"> |
+| **[SPIRO GENERATOR](./Spiro/)** | A spidrohedron (sometimes also called a spidron polyhedron) is a complex geometric solid whose surfaces are made up of so-called spidrons. | <img src="Images/5.png" width="150"> |
