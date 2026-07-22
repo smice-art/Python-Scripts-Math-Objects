@@ -16,3 +16,6 @@ Here is the table of Blender Scripts with a small preview:
 | **[KNOT](./Twisted-Knot/)** | A braided knot is an interwoven, closed, non-self-intersecting curve in 3D. | <img src="Images/5.png" width="150"> |
 | **[TREE](./Tree/)** | A fractal tree is an infinitely repeating geometric pattern that mimics the branching structure. | <img src="Images/4.png" width="150"> |
 | **[SPIRO](./Spiro/)** | A spidrohedron (sometimes also called a spidron polyhedron) is a complex geometric solid whose surfaces are made up of so-called spidrons. | <img src="Images/3.png" width="150"> |
+| **[BIANCHI](./Bianchi/)** | Bianchi-Pinkall Flat Tori. | <img src="Images/6.png" width="150"> |
+| **[PINKALL](./Pinkall/)** | The Pinkall stereo torus is a specific geometric surface . | <img src="Images/7.png" width="150"> |
+| **[WILLMORE](./Willmore/)** | Willmore Torus 4 Lobed Surface. | <img src="Images/8.png" width="150"> |
