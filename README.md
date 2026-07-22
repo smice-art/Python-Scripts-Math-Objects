@@ -3,7 +3,7 @@
 </p>
 
 # Python Scripts Math Objects
-A collection of Python Scripts to generate Math Objects in Blender. 
+A collection of Python Scripts to generate Math Objects in Blender. All those obejcts are generated with python script inside Blender. To use them just copy and paste the code inside the text enviroment in Blender and run the script. Most scripts have a "parameter" area, where it is possible to adjust the look of the obejcts. 
 
 ## 📂 Phyton-Scripts
 
