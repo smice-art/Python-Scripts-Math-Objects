@@ -7,18 +7,12 @@ A collection of Python Scripts to generate Math Objects in Blender.
 
 ## 📂 Phyton-Scripts
 
-Here is the list of Blender Scripts:
-
-*   [Boys](./Boys/) – click the Link to watch the certain Script Folder
-*   [Rose](./Rose/) – click the Link to watch the certain Script Folder
-*   [Knot](./Twisted-Knot/) – click the Link to watch the certain Script Folder
-*   [Tree Generator](./Tree/) – click the Link to watch the certain Script Folder
-*   [Spiro Generator](./Spiro/) – click the Link to watch the certain Script Folder
+Here is the table of Blender Scripts with a small preview:
 
 | Object | Description | Preview |
 | :--- | :--- | :--- |
 | **[BOYS](./Boys/)** | Boy's Surface (Bryant-Kusner). | <img src="Images/1.png" width="150"> |
 | **[ROSE](./Rose/)** | Just a simple python Flower. | <img src="Images/2.png" width="150"> |
-| **[KNOT1](./Twisted-Knot/)** | A braided knot is an interwoven, closed, non-self-intersecting curve in 3D. | <img src="Images/5.png" width="150"> |
-| **[TREE GENERATOR](./Tree/)** | A fractal tree is an infinitely repeating geometric pattern that mimics the branching structure. | <img src="Images/4.png" width="150"> |
-| **[SPIRO GENERATOR](./Spiro/)** | A spidrohedron (sometimes also called a spidron polyhedron) is a complex geometric solid whose surfaces are made up of so-called spidrons. | <img src="Images/3.png" width="150"> |
+| **[KNOT](./Twisted-Knot/)** | A braided knot is an interwoven, closed, non-self-intersecting curve in 3D. | <img src="Images/5.png" width="150"> |
+| **[TREE](./Tree/)** | A fractal tree is an infinitely repeating geometric pattern that mimics the branching structure. | <img src="Images/4.png" width="150"> |
+| **[SPIRO](./Spiro/)** | A spidrohedron (sometimes also called a spidron polyhedron) is a complex geometric solid whose surfaces are made up of so-called spidrons. | <img src="Images/3.png" width="150"> |
