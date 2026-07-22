@@ -17,7 +17,7 @@ Here is the list of Blender Scripts:
 
 | Feature | Description | Preview |
 | :--- | :--- | :--- |
-| **K-Means Clustering** | Intelligently identifies and groups dominant base colors from the baked texture. | <img src="images/your_image_1.png" width="150"> |
-| **Shadow Tolerance** | Adjusts the percentage to ignore baked-in lighting, shadows, and highlights. | <img src="images/your_image_2.png" width="150"> |
-| **Preview Mode** | Instantly switches the viewport to display calculated color groups directly on mesh centers. | <img src="images/your_image_3.png" width="150"> |
-| **Generate Materials** | Automatically builds the node trees and assigns discrete Principled BSDF materials. | <img src="images/your_image_4.png" width="150"> |
+| **BOYS** | Intelligently identifies and groups dominant base colors from the baked texture. | <img src="images/1.png" width="150"> |
+| **ROSE** | Adjusts the percentage to ignore baked-in lighting, shadows, and highlights. | <img src="images/2.png" width="150"> |
+| **SPIRO** | Instantly switches the viewport to display calculated color groups directly on mesh centers. | <img src="images/3.png" width="150"> |
+| **TREE** | Automatically builds the node trees and assigns discrete Principled BSDF materials. | <img src="images/4.png" width="150"> |
