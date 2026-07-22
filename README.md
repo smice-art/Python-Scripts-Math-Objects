@@ -15,9 +15,9 @@ Here is the list of Blender Scripts:
 *   [Tree Generator](./Tree/) – click the Link to watch the certain Script Folder
 *   [Spiro Generator](./Spiro/) – click the Link to watch the certain Script Folder
 
-| Feature / Parameter | Type / Format | Description |
+| Feature | Description | Preview |
 | :--- | :--- | :--- |
-| **K-Means Clustering** | Algorithm | Intelligently identifies and groups dominant base colors. |
-| **Shadow Tolerance** | Percentage | Ignores baked-in lighting, shadows, and highlights. |
-| **Preview Mode** | Viewport Action | Instantly switches to Solid Mode to display calculated color groups. |
-| **Generate Materials** | Action | Builds and assigns the final discrete Principled BSDF nodes. |
+| **K-Means Clustering** | Intelligently identifies and groups dominant base colors from the baked texture. | <img src="images/your_image_1.png" width="150"> |
+| **Shadow Tolerance** | Adjusts the percentage to ignore baked-in lighting, shadows, and highlights. | <img src="images/your_image_2.png" width="150"> |
+| **Preview Mode** | Instantly switches the viewport to display calculated color groups directly on mesh centers. | <img src="images/your_image_3.png" width="150"> |
+| **Generate Materials** | Automatically builds the node trees and assigns discrete Principled BSDF materials. | <img src="images/your_image_4.png" width="150"> |
