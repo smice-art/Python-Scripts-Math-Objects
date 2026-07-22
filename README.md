@@ -17,7 +17,7 @@ Here is the list of Blender Scripts:
 
 | Feature | Description | Preview |
 | :--- | :--- | :--- |
-| **[Boys](./Boys/)** | Boy's Surface (Bryant-Kusner). | <img src="./images/1.png" width="150"> |
-| **ROSE** | Adjusts the percentage to ignore baked-in lighting, shadows, and highlights. | <img src="images/2.png" width="150"> |
+| **[Boys](./Boys/)** | Boy's Surface (Bryant-Kusner). | <img src="Images/1.png" width="150"> |
+| **ROSE** | Adjusts the percentage to ignore baked-in lighting, shadows, and highlights. | <img src="Images/2.png" width="150"> |
 | **SPIRO** | Instantly switches the viewport to display calculated color groups directly on mesh centers. | <img src="images/3.png" width="150"> |
 | **TREE** | Automatically builds the node trees and assigns discrete Principled BSDF materials. | <img src="images/4.png" width="150"> |
