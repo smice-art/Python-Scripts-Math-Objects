@@ -8,7 +8,7 @@ A script to generate the Pinkall stereo torus surface
 # Symmetries
 The Pinkall stereo torus is a specific geometric surface in three-dimensional space obtained by stereographically projecting a flat torus from the four-dimensional sphere. It is famous for being a Willmore surface, meaning it minimizes a specific type of bending energy called total curvature.
 
-# Fromula
+# Formula
 The 3D Projected Coordinates (Stereographic Projection):
 x = x1 / (1 - x4)
 y = x2 / (1 - x4)
