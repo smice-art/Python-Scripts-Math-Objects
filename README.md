@@ -1,3 +1,6 @@
+<script src="image-modal.js"></script>
+<link rel="stylesheet" href="style.css">
+
 <p align="center">
   <img src="scripts.jpg" alt="Reverse Baking Banner" width="100%">
 </p>
