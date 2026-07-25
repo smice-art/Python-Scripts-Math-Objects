@@ -1,0 +1,118 @@
+/* The outmost container of the lightbox */
+#image-modal-popup {
+	/* Hide until popup is trigerred to open */
+	display: none;	
+	position: fixed;
+	padding: 0;
+	margin: 0;
+
+	/* Make sure the popup is in front of everything else, depending on your page's layering, you might need a higher number here */
+	z-index: 100000;
+
+	/* Set the edges to cover the whole page. Also for centering the image */
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+
+	/* A semi transparent background. Set it to any color you like */
+	background-color: #0000008f;
+}
+
+/* Used for centering */
+#image-modal-container
+{
+	position: relative;
+	background-color: transparent;
+
+	padding: 0;
+	margin: 0;
+
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+	/* Allow for some padding around the image. Set to 100% if you don't want it. */
+	width: 90%;
+
+}
+
+
+
+/* The dialog */
+
+#image-modal-dialog {
+	position: relative;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+
+	/* Frame color */
+	background-color: #9b5b5b;
+
+	/* Frame thickness */
+	padding: 10px;
+
+	/* Radius of the rounded edges of the frame. Set to 0 for sharp edges */
+	border-radius: 10px;
+}
+
+
+
+/* The image */
+
+#image-modal-image {
+
+	padding: 0;
+	margin: 0;
+		
+	/* This ensures the height of the popup is within the viewport height */
+	max-height: 85vh;
+
+	/* So the image doesn't streetch disproportionally on Safari */
+	max-width: 85vw;
+
+	/* Set to 0 if you don't want rounded border */
+	border-radius: 10px;
+}
+
+
+
+/* Loading animation */
+#image-modal-loader {
+	position: absolute;
+	padding: 0;
+	margin: 0;
+
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	
+	background: #000 url(../images/loader.gif) center center no-repeat;
+	/* set 'background-size' to 'auto' if your loading animation is smaller than the dimensions specified below */
+	background-size: contain;
+	max-width: 100px;
+	max-height: 100px;
+	margin: auto;
+	width: 100px;
+	height: 100px;
+}
+
+/* Close button */
+#image-modal-close-button {
+	/* Place the button on the top-right of the popup */
+	position: absolute;
+	right: -10px;
+	top: -10px;
+	padding: 0;
+	margin: 0;
+
+
+	/* I am using an image for the button here, but you can just use text if you want to. */
+	background: url(../images/close-button.gif) no-repeat;
+	background-size: contain;
+	width: 50px;
+	height: 50px;
+}
