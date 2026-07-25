@@ -3,7 +3,7 @@
 </p>
 
 # Python Scripts Math Objects Volume I
-A collection of Python Scripts to generate Math Objects in Blender. All those obejcts are generated with python script inside Blender. To use them just copy and paste the code inside the text enviroment in Blender and run the script. Most scripts have a "parameter" area, where it is possible to adjust the look of the obejcts. 
+A collection of Python Scripts to generate Math Objects in Blender. All those objects are generated with python script inside Blender. To use them just copy and paste the code inside the text environment in Blender and run the script. Most scripts have a "parameter" area, where it is possible to adjust the look of the objects. 
 
 ## 📂 Phyton-Scripts
 
@@ -19,3 +19,4 @@ Here is the table of Blender Scripts with a small preview:
 | **[BIANCHI](./Bianchi/)** | Bianchi-Pinkall Flat Tori. | <img src="Images/6.png" width="150"> |
 | **[PINKALL](./Pinkall/)** | The Pinkall stereo torus is a specific geometric surface . | <img src="Images/7.png" width="150"> |
 | **[WILLMORE](./Willmore/)** | Willmore Torus 4 Lobed Surface. | <img src="Images/8.png" width="150"> |
+| **[Kluchikov](./Kluchikov/)** | Kluchikov Torus. | <img src="Images/9.png" width="150"> |
