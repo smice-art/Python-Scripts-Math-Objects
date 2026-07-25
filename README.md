@@ -19,4 +19,4 @@ Here is the table of Blender Scripts with a small preview:
 | **[BIANCHI](./Bianchi/)** | Bianchi-Pinkall Flat Tori. | <img src="Images/6.png" width="150"> |
 | **[PINKALL](./Pinkall/)** | The Pinkall stereo torus is a specific geometric surface . | <img src="Images/7.png" width="150"> |
 | **[WILLMORE](./Willmore/)** | Willmore Torus 4 Lobed Surface. | <img src="Images/8.png" width="150"> |
-| **[Kluchikov](./Kluchikov/)** | Kluchikov Torus. | <img src="Images/9.png" width="150"> |
+| **[KLUCHIKOV](./Kluchikov/)** | Kluchikov Torus. | <img src="Images/9.png" width="150"> |
