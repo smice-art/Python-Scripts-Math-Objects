@@ -1,5 +1,5 @@
-<script src="image-modal.js"></script>
-<script src="jquery-3.7.1.js"></script>
+<script src="image-modal.js"> </script>
+<script src="jquery-3.7.1.js"> </script>
 <link rel="stylesheet" href="style.css">
 
 <p align="center">
