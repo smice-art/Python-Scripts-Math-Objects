@@ -11,7 +11,7 @@ Here is the table of Blender Scripts with a small preview:
 
 | Object | Description | Preview |
 | :--- | :--- | :--- |
-| **[BOYS](./Boys/)** | Boy's Surface (Bryant-Kusner). | <img src="images/1.png" class="image-popup" > width="150"> |
+| **[BOYS](./Boys/)** | Boy's Surface (Bryant-Kusner). | <img src="images/1.png" class="image-popup" width="150"> |
 | **[BOYS](./Boys/)** | Boy's Surface (Bryant-Kusner). | <img src="Images/1.png" width="150"> |
 | **[ROSE](./Rose/)** | Just a simple python Flower. | <img src="Images/2.png" width="150"> |
 | **[KNOT](./Twisted-Knot/)** | A braided knot is an interwoven, closed, non-self-intersecting curve in 3D. | <img src="Images/5.png" width="150"> |
