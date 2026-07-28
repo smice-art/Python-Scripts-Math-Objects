@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="scripts.jpg" alt="Reverse Baking Banner" width="100%">
+  <img src="scripts.jpg" alt="MathScriptsI" width="100%">
 </p>
 
 # Python Scripts Math Objects Volume I
